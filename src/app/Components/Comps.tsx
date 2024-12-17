@@ -79,7 +79,7 @@ const Comps = () => {
         <Image src="/karam.png" alt="Logo 3" width={100} height={100} />
       </div>
       <div className={`transition-filter duration-1000 ${isVisible ? 'filter-none' : 'blur-sm'}`}>
-        <Image src="/logoimage.png" alt="Logo 4" width={100} height={100} />
+        <Image src="/983861_721819601272849_4606720288899839424_n 1.png" alt="Logo 4" width={100} height={100} />
       </div>
       <div className={`transition-filter duration-1000 ${isVisible ? 'filter-none' : 'blur-sm'}`}>
         <Image src="/Group 25.png" alt="Logo 5" width={100} height={100} />
