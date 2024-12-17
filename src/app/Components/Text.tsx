@@ -14,7 +14,7 @@ function text() {
   </p> 
 
   {/* Responsive line image */}
-  <img className='mx-auto mt-6 sm:mt-8 md:mt-11 h-2 w-30' src="line.png" alt="line" />
+  <img className='mx-auto mt-6 sm:mt-8 md:mt-11 h-1 w-30' src="line.png" alt="line" />
 
   {/* Responsive paragraph */}
   <p className='mt-4 sm:mt-6 md:mt-8 text-xs sm:text-sm  leading-5 sm:leading-6 md:leading-7 flex justify-center'>
