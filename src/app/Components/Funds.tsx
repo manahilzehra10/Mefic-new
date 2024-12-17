@@ -335,13 +335,13 @@ function Funds() {
         </button>
       </div> */}
 
-<div className="flex justify-center  mt-10">
+<div className="flex justify-left mx-52  mt-10">
         <button className="px-4 py-2 text-xs bg-gray-200">
         MEFIC FUNDS
         </button>
       </div>
 
-      <div className="flex justify-center mt-10">
+      <div className="flex justify-left mx-52 mt-10">
         <p className="text-2xl sm:text-3xl lg:text-4xl text-left">
           To <b>Find</b> the best <span className="text-orange-600 font-bold">MEFIC </span>
           <br />
@@ -349,7 +349,7 @@ function Funds() {
         </p>
       </div>
 
-      <div className="flex justify-center mt-10">
+      <div className="flex justify-left mx-52 mt-10">
         <Image className="w-full lg:w-auto" src="/rect.png" alt="Rectangle" width={1400} height={500} />
       </div>
 
@@ -360,7 +360,7 @@ function Funds() {
         without revolutionary ROI.
       </p>
 
-      <div className="flex justify-center mt-10">
+      <div className="flex justify-left mx-52 mt-10">
         <button className="px-4 py-2 border-2 border-orange-500 text-black font-semibold rounded-md hover:bg-orange-500 hover:text-white">
           Book a Consultant
         </button>
