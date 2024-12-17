@@ -353,7 +353,7 @@ function Funds() {
         <Image className="w-full lg:w-auto" src="/rect.png" alt="Rectangle" width={1400} height={500} />
       </div>
 
-      <p className="text-xs justify-left mx-auto sm:w-[80%] lg:w-[60%] mt-10  lg:text-left">
+      <p className="text-xs justify-left mx-52 sm:w-[80%] lg:w-[60%] mt-10  lg:text-left">
         Collaboratively administrate empowered markets via plug-and-play maintain
         networks. Dynamically usable procrastinate B2B users after installed base
         benefits. Dramatically maintain visualize customer directed convergence
